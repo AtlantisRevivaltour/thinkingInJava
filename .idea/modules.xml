@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/18_IO/18_IO.iml" filepath="$PROJECT_DIR$/18_IO/18_IO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/21_Concurrency/21_Concurrency.iml" filepath="$PROJECT_DIR$/21_Concurrency/21_Concurrency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thinkingInJava.iml" filepath="$PROJECT_DIR$/thinkingInJava.iml" />
+    </modules>
+  </component>
+</project>
